@@ -1,0 +1,8 @@
+vehicle_id,year,make,Model,drivetrain,max_torque,max_horsepower,max_horsepower_rpm,max_torque_rpm,engine_displacement,fuel_type,fuel_tank_capacity,fuel_economy_city,fuel_economy_highway,cylinders,forced_induction,device_generation
+1000500,2016,Honda,Civic,2,174,140,6500,1500,1.799,1059,47,16.5,20,4,1054,5
+1000501,2016,Jeep,Compass,4,350,171,3750,1250,1.956,1059,60,17.1,21.2,3,null,4
+1000502,2016,Hyundai,Creta,2,260,126,4000,1500,1.582,1059,55,19.67,24.1,4,1054,3
+1000503,2016,Skoda,Superb,2,250,177,5100,1750,1.798,1059,66,14.67,23.3,3,null,2
+1000504,2017,Volkswagen,Passat,4,350,174,3600,1500,1.968,1059,66,17.42,20.43,4,null,4
+1000506,2017,BMW,3 Series GT,2,400,188,4000,1800,1.995,1059,57,21.76,26.32,3,null,3
+1000507,2017,Audi,Q3,3,250,148,5000,1400,1.395,1059,64,16.9,21.4,3,1054,2
